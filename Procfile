@@ -1,1 +1,1 @@
-web: gunicorn next_django_project.next_django_project.wsgi
+web: gunicorn my_project.next_django_project.wsgi
